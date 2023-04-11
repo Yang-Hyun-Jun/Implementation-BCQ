@@ -1,6 +1,8 @@
 # Implementation: BCQ
 
-My implementation code of Batch Constrained Q-learning (BCQ) 
+My implementation code of Batch Constrained Q-learning (BCQ)
+
+
 [Off-Policy Deep Reinforcement Learning without Exploration, 2019 ICML](https://arxiv.org/pdf/1812.02900.pdf)
 
 
